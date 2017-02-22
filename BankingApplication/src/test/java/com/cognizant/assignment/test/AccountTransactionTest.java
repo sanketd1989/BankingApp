@@ -36,7 +36,7 @@ public class AccountTransactionTest{
 	/**
 	 * To test the multiple thread performing the balance transfer
 	 * @throws InterruptedException 
-	 * @throws Exception 
+	 * @throws Exception //
 	 */
 	@Test
 	public void testMultipleThread() throws InterruptedException{
